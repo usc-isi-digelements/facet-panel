@@ -11,20 +11,20 @@
     "polymer"
   ],
   "main": "facet-panel.html",
-  "homepage": "https://github.com/DigElements/facet-panel/",
+  "homepage": "https://github.com/usc-isi-digelements/facet-panel/",
   "ignore": [
     "/.*",
     "/test/"
   ],
   "dependencies": {
     "polymer": "Polymer/polymer#^2.0.2",
-    "date-range-facet": "DigElements/date-range-facet#2.0.4",
-    "facet-list": "DigElements/facet-list#2.4.1",
+    "date-range-facet": "usc-isi-digelements/date-range-facet#2.0.4",
+    "facet-list": "usc-isi-digelements/facet-list#2.4.1",
     "iron-flex-layout": "PolymerElements/iron-flex-layout#^2.0.0",
-    "lodash-import": "DigElements/lodash-import#~1.0.1",
+    "lodash-import": "usc-isi-digelements/lodash-import#~1.0.1",
     "paper-header-panel": "PolymerElements/paper-header-panel#^2.0.0",
     "paper-styles": "PolymerElements/paper-styles#^2.0.0",
-    "stylized-icon": "DigElements/stylized-icon#2.0.0"
+    "stylized-icon": "usc-isi-digelements/stylized-icon#2.0.0"
   },
   "devDependencies": {
     "iron-component-page": "PolymerElements/iron-component-page#^2.0.0",
